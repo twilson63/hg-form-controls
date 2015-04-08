@@ -1,6 +1,6 @@
 # Mercury Form Controls
 
-Form Controls for Mecury (https://github.com/Raynos/mercury)
+Form Controls for Mercury (https://github.com/Raynos/mercury)
 
 ## install
 
