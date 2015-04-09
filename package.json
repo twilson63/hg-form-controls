@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "hg-input": "^1.0.3",
-    "hg-select": "^1.0.1",
+    "hg-select": "^1.0.2",
     "hg-textarea": "^1.0.3"
   }
 }
